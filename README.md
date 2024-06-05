@@ -1,6 +1,5 @@
 # ETFC
-Deep learning-based multi-functional therapeutic peptides prediction wih an imbalance-compensating weighted loss funcation
-
+Deep learning-based multi-functional therapeutic peptides prediction with a multi-label focal dice loss function
 
 ## Introduction
 In this paper, we develop a novel deep neural network-based MLC model named ETFC to predict MFPTs. This work has the following advantages over existing methods:  
